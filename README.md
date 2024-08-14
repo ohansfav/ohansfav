@@ -16,7 +16,7 @@ I've been learning to code for over 10 years, after switching career, i focus on
 
 <a href="https://www.github.com/ohansfav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ohansfav?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/ohansfav1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ohansfav1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/ohasfav1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/kiara_ohans" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/kiara_ohans?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
