@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend developer, Cybersecurity Analyst, frontend developer, machine learner, Graphics designer...
 ---------------------------------------------------------------------------------------------------
 
-I've been learning to code for over 10 years, after switching career from electrical engineering, i focus on programming and tried to understand the algorithm of programs
+I've been learning to code for over 10 years, after switching career, i focus on programming and tried to understand the algorithm of programs
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based on Earth
 * 🖥️  See my portfolio at [Github](http://github.com/ohansfav)
 * ✉️  You can contact me at [ohanugofavour@gmail.com](mailto:ohanugofavour@gmail.com)
 * 🚀  I'm currently working on [Java, C, C++, python and C# projects](http://github.com/ohansfav?tab=repositories)
