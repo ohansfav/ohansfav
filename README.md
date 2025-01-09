@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KIARA (ohanugo favour)
 ======================================================================================================================================
 
-Backend developer, Cybersecurity Analyst, frontend developer, machine learner, Graphics designer...
+Backend developer, Cybersecurity Analyst, networking, frontend developer, machine learner, Graphics designer...
 ---------------------------------------------------------------------------------------------------
 
-I've been learning to code for over 10 years, after switching career, i focus on programming and tried to understand the algorithm of programs
+I've been learning to code for over 7 years, after switching career, i focus on programming and tried to understand the algorithm of programs
 
 * 🌍  I'm based on Earth
 * 🖥️  See my portfolio at [Github](http://github.com/ohansfav)
 * ✉️  You can contact me at [ohanugofavour@gmail.com](mailto:ohanugofavour@gmail.com)
 * 🚀  I'm currently working on [Java, C, C++, python and C# projects](http://github.com/ohansfav?tab=repositories)
-* 🧠  I'm learning Rust, C#, TensorFlow, Cloud management
+* 🧠  I'm learning Rust, C#, TensorFlow, Ethical hacking, Cloud management
 * 🤝  I'm open to collaborating on interesting projects no matter how futile it is.. an in
 * ⚡  Just want to understand how everything works, I want to create an algorithm for it and improve on it
 
