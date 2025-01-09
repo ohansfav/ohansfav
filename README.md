@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KIARA (ohanugo favour)
 ======================================================================================================================================
 
-Backend developer, Cybersecurity Analyst, networking, frontend developer, machine learner, Graphics designer...
+Backend developer, Cybersecurity Analyst, Networking, Frontend Developer, Machine Language Learner, Graphics Designer...
 ---------------------------------------------------------------------------------------------------
 
 I've been learning to code for over 7 years, after switching career, i focus on programming and tried to understand the algorithm of programs
